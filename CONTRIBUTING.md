@@ -2,7 +2,7 @@
 
 First off, thank you for considering contributing to Project Lucid! It is through the collective effort of designers, linguists, and developers that we can modernize Urdu orthography for the digital age.
 
-By contributing, you agree to license your work under the [SIL Open Font License 1.1](LICENSE).
+By contributing, you agree to license your work under the [SIL Open Font License 1.1](OFL.txt).
 
 ---
 
