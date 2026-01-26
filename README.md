@@ -47,7 +47,9 @@ Project Lucid utilizes the **OpenType `calt` (Contextual Alternates)** feature t
 ├── build/              # Compiled .OTF and .TTF files
 ├── source/             # FontForge (.sfd) project files
 ├── docs/               # The Lucid Manifesto (Full Documentation)
-└── README.md
+├── OFL.txt             # SIL Open Font License 1.1
+├── README.md           # Project Overview & Documentation
+└── CONTRIBUTING.md     # Guidelines for Contributors
 
 ```
 
