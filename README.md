@@ -87,6 +87,6 @@ We welcome developers, linguists, and designers to contribute to the **Lucid Man
 
 **Documentation:** Still under development. 
 
-**"Simplicity is the ultimate sophistication."** Testing
+**"Simplicity is the ultimate sophistication."** 
 
 ---
