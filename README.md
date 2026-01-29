@@ -67,7 +67,7 @@ Project Lucid utilizes the **OpenType `calt` (Contextual Alternates)** feature t
 
 ## ⚖️ License
 
-This project is licensed under the **[SIL Open Font License 1.1](OFL.txt)**. You are free to use, study, modify, and redistribute the font, provided you do not sell the font by itself
+This project is licensed under the **[SIL Open Font License 1.1](OFL.txt)**. You are free to use, study, modify, and redistribute the font, provided you do not sell the font by itself.
 
 Derived from the original 37-glyph research at [font.shehroz.pk](https://font.shehroz.pk/) and the [Shehroz Font Project](https://github.com/xehroz/Shehroz-Font).
 
