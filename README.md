@@ -75,7 +75,7 @@ Derived from the original 37-glyph research at [font.shehroz.pk](https://font.sh
 
 ## 🤝 Contributing
 
-We welcome developers, linguists, and designers to [contribute](CONTRIBUTING.md) to the **Lucid Manifesto**.
+We welcome developers, linguists, and designers to [contribute](/CONTRIBUTING.md) to the **Lucid Manifesto**.
 
 1. Fork the repo.
 2. Propose changes to the `calt` mapping or glyph geometry.
