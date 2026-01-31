@@ -25,18 +25,53 @@ Every glyph in this repository is designed within a **25mm x 25mm master square*
 
 * **Units Per Em (UPM):** 1000
 * **Advance Width:** 1000 (Strict Monospace)
-* **Source Assets:** 37 high-fidelity vector glyphs.
+* **Source Assets:** 39 high-fidelity vector glyphs.
 
 ### 2. The Phonetic Engine
 
-Project Lucid utilizes the **OpenType `calt` (Contextual Alternates)** feature to map standard QWERTY input to the 37-glyph inventory.
+Project Lucid utilizes the **OpenType `calt` (Contextual Alternates)** feature to map standard QWERTY input to the 39-glyph inventory.
 
 | Input | Glyph PUA | Phoneme | Logic |
 | --- | --- | --- | --- |
-| `a` | `U+E014` | ا | Short Vowel |
+| `a` | `U+E016` | ا | Short Vowel |
 | `b` | `U+E000` | ب | Labial Plosive |
+| `p` | `U+E001` | پ | Aspirated Plosive |
+| `t` | `U+E002` | ت | Dental |
 | `T` | `U+E003` | ٹ | Retroflex |
-| `~` | `U+E01C` | ں | Nasalization |
+| `d` | `U+E005` | د | Dental |
+| `D` | `U+E006` | ڈ | Retroflex |
+| `r` | `U+E007` | ر | Tap |
+| `R` | `U+E008` | ڑ | Retroflex Flap |
+| `j` | `U+E009` | ج | Affricate |
+| `c` | `U+E00A` | چ | Affricate |
+| `k` | `U+E00B` | ک | Velar |
+| `g` | `U+E00C` | گ | Velar |
+| `f` | `U+E00D` | ف | Labiodental |
+| `q` | `U+E00E` | ق | Uvular |
+| `s` | `U+E00F` | س | Sibilant |
+| `S` | `U+E010` | ص | Sibilant |
+| `C` | `U+E011` | ث | Sibilant |
+| `z` | `U+E012` | ز | Fricative |
+| `Z` | `U+E013` | ذ | Fricative |
+| `J` | `U+E014` | ض | Fricative |
+| `V` | `U+E015` | ظ | Fricative |
+| `x` | `U+E016` | ش | Sibilant |
+| `h` | `U+E018` | ح | Aspirate |
+| `o` | `U+E017` | ہ | Aspirate |
+| `G` | `U+E019` | غ | Fricative |
+| `K` | `U+E01A` | خ | Fricative |
+| `m` | `U+E01B` | م | Nasal |
+| `n` | `U+E01C` | ن | Nasal |
+| `X` | `U+E01D` | ژ | Persian |
+| `a` | `U+E01E` | ا | Vowel (Alif) |
+| `A` | `U+E01F` | آ | Vowel (Long Alif) |
+| `i` | `U+E020` | ی | High Vowel (Ye) |
+| `y` | `U+E021` | ے | Mid Vowel (Bari Ye) |
+| `w` | `U+E022` | و | Vowel (Wao) |
+| `e` | `U+E025` | ع | Vowel (Ain) |
+| `u` | `U+E026` | ء | Glottal Stop |
+| `N` | `U+E027` | ں | Nasal |
+| `l` | `U+E028` | ل | Lāmd |
 
 ---
 
