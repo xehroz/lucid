@@ -45,7 +45,9 @@
 ├── CONTRIBUTING.md
 ├── docs
 │   ├── directory-structure.txt
-│   └── key-mapping-sheet.ods
+│   ├── key-mapping-sheet.ods
+│   ├── project-lucid-master-document.odt
+│   └── project-lucid-master-document.pdf
 ├── OFL.txt
 ├── README.md
 └── source
