@@ -112,7 +112,7 @@ Derived from the original 37-glyph research at [font.shehroz.pk](https://font.sh
 
 We welcome developers, linguists, and designers to [contribute](/CONTRIBUTING.md) to the **Lucid Manifesto**.
 
-1. Fork the repo.
+1. Fork the repo. BTW everything belonging to this project is available on [GitHub](https://github.com/xehroz/lucid)
 2. Propose changes to the `calt` mapping or glyph geometry.
 3. Submit a Pull Request.
 
@@ -120,7 +120,7 @@ We welcome developers, linguists, and designers to [contribute](/CONTRIBUTING.md
 
 **Project Lead:** Shehroz Kaleem
 
-**Documentation:** Still under development. 
+**Documentation:** SMaster document is available [here](/docs/project-lucid-master-document.pdf). 
 
 **"Simplicity is the ultimate sophistication."** 
 
