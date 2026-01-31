@@ -120,7 +120,7 @@ We welcome developers, linguists, and designers to [contribute](/CONTRIBUTING.md
 
 **Project Lead:** Shehroz Kaleem
 
-**Documentation:** SMaster document is available [here](/docs/project-lucid-master-document.pdf). 
+**Documentation:** Master documentation is available [here](/docs/project-lucid-master-document.pdf). 
 
 **"Simplicity is the ultimate sophistication."** 
 
