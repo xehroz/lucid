@@ -1,0 +1,52 @@
+.
+├── assets
+│   ├── aen.svg
+│   ├── alif-maddah.svg
+│   ├── alif.svg
+│   ├── basic-glyphs.odg
+│   ├── bay.svg
+│   ├── chey.svg
+│   ├── daal.svg
+│   ├── dhaal.svg
+│   ├── fey.svg
+│   ├── gaaf.svg
+│   ├── ghaen.svg
+│   ├── hamza.svg
+│   ├── hey-hum-wali.svg
+│   ├── hey.svg
+│   ├── jeem.svg
+│   ├── kaaf-nukta-wali.svg
+│   ├── keaf-kash-wali.svg
+│   ├── khey.svg
+│   ├── laam.svg
+│   ├── meem.svg
+│   ├── noon-ghuna.svg
+│   ├── noon-nukta.svg
+│   ├── pay.svg
+│   ├── ray.svg
+│   ├── rhey.svg
+│   ├── seen.svg
+│   ├── seh-arrey-k-baad-wali.svg
+│   ├── sey.svg
+│   ├── sheen.svg
+│   ├── suad.svg
+│   ├── tey.svg
+│   ├── they.svg
+│   ├── toay.svg
+│   ├── wow.svg
+│   ├── ye-barri.svg
+│   ├── ye-chotti.svg
+│   ├── zaal.svg
+│   ├── zay.svg
+│   ├── zoaad.svg
+│   └── zoay.svg
+├── build
+├── CNAME
+├── CONTRIBUTING.md
+├── docs
+│   ├── directory-structure.txt
+│   └── key-mapping-sheet.ods
+├── OFL.txt
+├── README.md
+└── source
+
