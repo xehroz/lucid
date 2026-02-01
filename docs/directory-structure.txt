@@ -3,7 +3,6 @@
 │   ├── aen.svg
 │   ├── alif-maddah.svg
 │   ├── alif.svg
-│   ├── basic-glyphs.odg
 │   ├── bay.svg
 │   ├── chey.svg
 │   ├── daal.svg
@@ -19,6 +18,7 @@
 │   ├── keaf-kash-wali.svg
 │   ├── khey.svg
 │   ├── laam.svg
+│   ├── lucid-font.svg
 │   ├── meem.svg
 │   ├── noon-ghuna.svg
 │   ├── noon-nukta.svg
@@ -51,5 +51,5 @@
 ├── OFL.txt
 ├── README.md
 └── source
+    ├── lucid_latin_to_PUA.fea
     └── LucidUrdu.sfd
-
