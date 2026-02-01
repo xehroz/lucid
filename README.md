@@ -4,8 +4,7 @@
 
 By bypassing the computational "shaping" requirements of traditional Nastaliq, Lucid allows for phonetic Urdu typing on any standard QWERTY keyboard with zero additional software installation, utilizing a rigorous **25mm x 25mm isometric grid**.
 
-!(docs/sample-text.svg)
-
+![Lucid sample](docs/sample-text.svg)
 
 ---
 
