@@ -4,11 +4,14 @@
 
 By bypassing the computational "shaping" requirements of traditional Nastaliq, Lucid allows for phonetic Urdu typing on any standard QWERTY keyboard with zero additional software installation, utilizing a rigorous **25mm x 25mm isometric grid**.
 
+!(docs/sample-text.svg)
+
+
 ---
 
 ## 👁️ The Vision
 
-Traditional Urdu (Nastaliq) is a masterpiece of calligraphy but a challenge for digital engineering. **Lucid** offers a "Third Way"—preserving the phonetic soul and Right-to-Left (RTL) flow of Urdu while adopting the ergonomic efficiency of monospaced Latin scripts.
+Traditional Urdu (Nastaliq) is a masterpiece of calligraphy but a challenge for digital engineering. **Lucid** offers a "Third Way"—preserving the phonetic soul and Right-to-Left (RTL) flow of Urdu while adopting the ergonomic efficiency of monospaced Latin scripts. Right now RTL is not working, especially when using PUA, maybe we need to assisgn this to Arabic/Urdu code block later. 
 
 * **One Sound, One Glyph:** No initial, medial, or final forms.
 * **Monospaced Geometry:** Every character is a perfect square.
