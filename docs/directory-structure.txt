@@ -41,6 +41,7 @@
 │   ├── zoaad.svg
 │   └── zoay.svg
 ├── build
+│   └── LucidUrdu.otf
 ├── CNAME
 ├── CONTRIBUTING.md
 ├── docs
