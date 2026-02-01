@@ -1,0 +1,45 @@
+# Lucid Urdu OpenType Feature File
+# Latin → PUA Glyph Mapping
+# Feature: calt (Contextual Alternates)
+
+feature calt {
+    sub b by uniE000;
+    sub p by uniE001;
+    sub t by uniE002;
+    sub v by uniE003;
+    sub T by uniE004;
+    sub d by uniE005;
+    sub D by uniE006;
+    sub r by uniE007;
+    sub R by uniE008;
+    sub j by uniE009;
+    sub c by uniE00A;
+    sub k by uniE00B;
+    sub g by uniE00C;
+    sub f by uniE00D;
+    sub q by uniE00E;
+    sub s by uniE00F;
+    sub S by uniE010;
+    sub C by uniE011;
+    sub z by uniE012;
+    sub Z by uniE013;
+    sub J by uniE014;
+    sub V by uniE015;
+    sub x by uniE016;
+    sub o by uniE017;
+    sub h by uniE018;
+    sub G by uniE019;
+    sub K by uniE01A;
+    sub m by uniE01B;
+    sub n by uniE01C;
+    sub X by uniE01D;
+    sub a by uniE01E;
+    sub A by uniE01F;
+    sub i by uniE020;
+    sub y by uniE021;
+    sub w by uniE022;
+    sub e by uniE025;
+    sub u by uniE026;
+    sub N by uniE027;
+    sub l by uniE028;
+} calt;
