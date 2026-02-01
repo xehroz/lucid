@@ -92,6 +92,11 @@ Project Lucid utilizes the **OpenType `calt` (Contextual Alternates)** feature t
 
 ---
 
+## ⬇️ Download the font
+
+First build of Lucid Urdu Font (.OTF) can be [dowloaded from here](build/LucidUrdu.otf). 
+
+
 ## 🚀 How to Use
 
 1. **Install** the `LucidUrdu.otf` font.
